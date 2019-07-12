@@ -1,0 +1,30 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    Multiple people working on same projects
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    It might through conflict error. and its hard to figure out in large project.
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    forks- this term use to copy the other person repository to our own.
+    clones- this term used to copy the repository from the remote to local system. 
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Its important to take backup. we can use it in emergency cases.
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Its hard to maintain and shares project without git.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    keeping saperate branches helps in organisation.
